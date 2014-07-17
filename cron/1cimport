@@ -1,0 +1,2 @@
+*/5 * * * * /usr/home/1cimport/checkdisk.sh
+*/5 * * * * /usr/home/1cimport/checktyres.sh
